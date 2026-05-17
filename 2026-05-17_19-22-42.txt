@@ -1,0 +1,200 @@
+colors:
+	Notes:
+		- Original palette made for the LPC set, by Eliza Wyatt.
+	Licenses:
+		- OGA-BY 3.0
+	Authors:
+		- Eliza Wyatt (DeathsDarling)
+	Links:
+		- https://github.com/ElizaWy/LPC/wiki/Style-Guide#color-palette
+
+anatomy/body/teen:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- Evert
+		- TheraHedwig
+		- Benjamin K. Smith (BenCreating)
+		- MuffinElZangano
+		- Durrani
+		- Pierre Vigier (pvigier)
+		- Eliza Wyatt (ElizaWy)
+		- Matthew Krohn (makrohn)
+		- Johannes Sjölund (wulax)
+		- Stephen Challener (Redshrike)
+	Links:
+		- https://opengameart.org/content/lpc-jump-expanded
+		- https://opengameart.org/content/lpc-revised-character-basics
+		- https://opengameart.org/content/lpc-teen-unisex-base-clothes
+		- https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+		- https://opengameart.org/content/lpc-ladies
+		- https://opengameart.org/content/lpc-be-seated
+		- https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads
+		- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+		- https://opengameart.org/content/lpc-character-bases
+		- https://gitlab.com/vagabondgame/lpc-characters
+		- https://opengameart.org/content/lpc-male-jumping-animation-by-durrani
+		- https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+
+anatomy/head/alien:
+	Notes:
+		- based on lizard originally by Nila122
+		- modified by BenCreating
+		- further edited by bluecarrot16. Nila122 gave blanket permission to MedicineStorm to use Nila122's LPC assets under OGA-BY 3.0 (where original or derived only from other works under OGA-BY).
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- Benjamin K. Smith (BenCreating)
+		- Nila122
+	Links:
+		- https://opengameart.org/content/lpc-character-bases
+		- https://opengameart.org/content/drakes-and-lizardfolk
+
+anatomy/tail/lizard:
+	Notes:
+		- edited for v3 bases and recolored by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Nila122
+		- bluecarrot16
+	Links:
+		- https://opengameart.org/content/drakes-and-lizardfolk
+
+clothes/torso/tanktop:
+	Notes:
+		- "pirate shirt" by MadMarcel
+		- edited to all poses by makrohn
+		- cleanup and re-drawing by ElizaWy
+		- edits for v3 bases and further cleanup by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- ElizaWy
+		- Matthew Krohn (makrohn)
+		- Marcel van de Steeg (MadMarcel)
+	Links:
+		- https://opengameart.org/content/lpc-7-womens-shirts
+		- http://opengameart.org/content/lpc-clothing-updates
+		- https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle
+		- https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear
+
+clothes/cape/solid:
+	Notes:
+		- adapted to v3 bases and recolored by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- Nila122
+		- David Conway Jr. (JaidynReiman)
+	Links:
+		- http://opengameart.org/content/lpc-clothing-updates
+		- https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
+		- https://opengameart.org/content/lpc-roman-armor
+
+clothes/closure/frock_lace:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+	Links:
+		- https://opengameart.org/content/lpc-pirates
+
+clothes/pockets/jacket_pockets:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+	Links:
+		- https://opengameart.org/content/lpc-pirates
+
+clothes/feet/sandals:
+	Notes:
+		- edited for v3 bases by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 2.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Nila122
+		- David Conway Jr. (JaidynReiman)
+		- Matthew Krohn (makrohn)
+		- Johannes Sjölund (wulax)
+	Links:
+		- http://opengameart.org/content/lpc-clothing-updates
+		- https://opengameart.org/content/lpc-roman-armor
+
+clothes/hands/gloves:
+	Notes:
+		- metal gloves by wulax
+		- extended to female base by makrohn
+		- recolors by bigbeargames
+		- adapted to v3 bases by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Michael Whitlock (bigbeargames)
+		- Matthew Krohn (makrohn)
+		- Johannes Sjölund (wulax)
+		- bluecarrot16
+	Links:
+		- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+		- http://opengameart.org/content/lpc-clothing-updates
+
+injuries/body/bandage:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 2.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Nila122
+	Links:
+		- https://opengameart.org/content/lpc-bandages
+
+equipment/shields/spartan:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- Sander Frenken (castelonia)
+	Links:
+		- https://opengameart.org/content/lpc-shields
+
