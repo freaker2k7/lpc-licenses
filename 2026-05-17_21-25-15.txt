@@ -1,0 +1,148 @@
+colors:
+	Notes:
+		- Original palette made for the LPC set, by Eliza Wyatt.
+	Licenses:
+		- OGA-BY 3.0
+	Authors:
+		- Eliza Wyatt (DeathsDarling)
+	Links:
+		- https://github.com/ElizaWy/LPC/wiki/Style-Guide#color-palette
+
+anatomy/body/child:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- Benjamin K. Smith (BenCreating)
+		- ElizaWy
+		- MuffinElZangano
+		- Durrani
+		- Nila122
+		- kheftel
+		- Stephen Challener (Redshrike)
+	Links:
+		- https://opengameart.org/content/lpc-jump-expanded
+		- https://opengameart.org/content/lpc-child-standing-template
+		- https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+		- https://opengameart.org/content/lpc-children-walk-animation
+		- https://opengameart.org/content/lpc-male-jumping-animation-by-durrani
+
+anatomy/head/goblin_child:
+	Notes:
+		- original goblin by Redshrike
+		- commisioned by William.Thompsonj
+		- modular head extracted and slightly modified by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+		- CC-BY 4.0
+		- GPL 2.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- Stephen Challener (Redshrike)
+		- William.Thompsonj
+	Links:
+		- https://opengameart.org/content/lpc-folk
+		- https://opengameart.org/content/lpc-goblin
+
+anatomy/shadow/shadow:
+	Notes:
+		- original male pants by wulax
+		- edited for female by Joe White
+		- recolors by JaidynReiman
+		- walkcycle adapted to pregnant base by ElizaWy
+		- remaining animations, recolors and edits to v3 base by bluecarrot16
+		- teem body by Redshrike
+		- teen legs by ElizaWy derived from base
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- ElizaWy
+		- David Conway Jr. (JaidynReiman)
+		- Joe White
+		- Matthew Krohn (makrohn)
+		- Johannes Sjölund (wulax)
+		- Nila122
+		- Stephen Challener (Redshrike)
+	Links:
+		- https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+		- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+		- http://opengameart.org/content/lpc-clothing-updates
+		- https://opengameart.org/content/more-lpc-clothes-and-hair
+		- https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear
+		- https://opengameart.org/content/lpc-teen-unisex-base-clothes
+		- https://opengameart.org/content/lpc-clothes-for-children
+
+clothes/torso/blouse:
+	Notes:
+		- original princess.xcf by Sharm
+		- edited to blouse by ElizaWy
+		- adapted to v3 bases by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- ElizaWy
+		- Lanea Zimmerman (Sharm)
+	Links:
+		- https://opengameart.org/content/lpc-7-womens-shirts
+		- https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
+clothes/legs/pants:
+	Notes:
+		- original male pants by wulax
+		- edited for female by Joe White
+		- recolors by JaidynReiman
+		- walkcycle adapted to pregnant base by ElizaWy
+		- remaining animations, recolors and edits to v3 base by bluecarrot16
+		- teem body by Redshrike
+		- teen legs by ElizaWy derived from base
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- ElizaWy
+		- David Conway Jr. (JaidynReiman)
+		- Joe White
+		- Matthew Krohn (makrohn)
+		- Johannes Sjölund (wulax)
+		- Nila122
+		- Stephen Challener (Redshrike)
+	Links:
+		- https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+		- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+		- http://opengameart.org/content/lpc-clothing-updates
+		- https://opengameart.org/content/more-lpc-clothes-and-hair
+		- https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear
+		- https://opengameart.org/content/lpc-teen-unisex-base-clothes
+		- https://opengameart.org/content/lpc-clothes-for-children
+
+clothes/skirts/child:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Nila122
+	Links:
+		- https://opengameart.org/content/lpc-clothes-for-children
+
