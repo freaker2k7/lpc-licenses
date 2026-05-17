@@ -1,0 +1,196 @@
+colors:
+	Notes:
+		- Original palette made for the LPC set, by Eliza Wyatt.
+	Licenses:
+		- OGA-BY 3.0
+	Authors:
+		- Eliza Wyatt (DeathsDarling)
+	Links:
+		- https://github.com/ElizaWy/LPC/wiki/Style-Guide#color-palette
+
+anatomy/body/male:
+	Notes:
+		- see details at https://opengameart.org/content/lpc-character-bases
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- Benjamin K. Smith (BenCreating)
+		- Evert
+		- Eliza Wyatt (ElizaWy)
+		- TheraHedwig
+		- MuffinElZangano
+		- Durrani
+		- Johannes Sjölund (wulax)
+		- Stephen Challener (Redshrike)
+	Links:
+		- https://opengameart.org/content/lpc-jump-expanded
+		- https://opengameart.org/content/lpc-revised-character-basics
+		- https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+		- https://opengameart.org/content/lpc-be-seated
+		- https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads
+		- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+		- https://opengameart.org/content/lpc-character-bases
+		- https://opengameart.org/content/lpc-male-jumping-animation-by-durrani
+		- https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+
+anatomy/head/wartotaur:
+	Notes:
+		- original "wart-o-taur" concept and sprite by Redshrike
+		- extended to 4 directions and head extracted by Evert
+		- cleanup and hurt/cast animations by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+		- CC-BY 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- Evert
+		- Stephen Challener (Redshrike)
+	Links:
+		- https://opengameart.org/content/lpc-folk
+		- https://opengameart.org/content/tower-defense-prototyping-assets-4-monsters-some-tiles-a-background-image
+		- https://opengameart.org/content/wartotaur-4-directions
+
+anatomy/wings/lizard:
+	Notes:
+		- edited for v3 bases and recolored by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Nila122
+		- bluecarrot16
+	Links:
+		- https://opengameart.org/content/drakes-and-lizardfolk
+
+clothes/torso3/tabard:
+	Notes:
+		- original by wulax
+		- edited to female base by makrohn and JaidynReiman
+		- edited to v3 base by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- David Conway Jr. (JaidynReiman)
+		- Matthew Krohn (makrohn)
+		- Johannes Sjölund (wulax)
+	Links:
+		- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+		- http://opengameart.org/content/lpc-clothing-updates
+		- https://opengameart.org/content/lpc-combat-armor-for-women
+
+clothes/neck/jabot:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+	Links:
+		- https://opengameart.org/content/lpc-pirates
+
+clothes/shoulders/legion:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+		- CC-BY-SA 3.0
+		- GPL 2.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Nila122
+	Links:
+		- https://opengameart.org/content/lpc-roman-armor
+
+clothes/closure/frock_lapel:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- OGA-BY 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+	Links:
+		- https://opengameart.org/content/lpc-pirates
+
+clothes/feet/plate:
+	Notes:
+		- original by wulax
+		- edited for female base by makrohn
+		- recolors by bigbeargames
+		- edits for v3 base and recolors by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Matthew Krohn (makrohn)
+		- Johannes Sjölund (wulax)
+	Links:
+		- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+clothes/skirts/plain:
+	Notes:
+		- original by wulax
+		- edited for female base by pvigier
+		- edited for v3 base by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- bluecarrot16
+		- Pierre Vigier (pvigier)
+		- Johannes Sjölund (wulax)
+	Links:
+		- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+clothes/hands/gloves:
+	Notes:
+		- metal gloves by wulax
+		- extended to female base by makrohn
+		- recolors by bigbeargames
+		- adapted to v3 bases by bluecarrot16
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Michael Whitlock (bigbeargames)
+		- Matthew Krohn (makrohn)
+		- Johannes Sjölund (wulax)
+		- bluecarrot16
+	Links:
+		- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+		- http://opengameart.org/content/lpc-clothing-updates
+
+injuries/body/bandage:
+	Notes:
+		- 2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors
+	Licenses:
+		- CC-BY-SA 3.0
+		- GPL 2.0
+		- GPL 3.0
+	Authors:
+		- napsio
+		- Nila122
+	Links:
+		- https://opengameart.org/content/lpc-bandages
+
